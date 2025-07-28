@@ -49,7 +49,7 @@ This repository contains test documentation, bug reports, and user stories for t
 ---
 
 ## 📸 JIRA Documentation
- E-Commerce Website
+E-Commerce Website
 Screenshots of JIRA dashboards, test cases, and defect logs are included below:
 <img width="1339" height="659" alt="11" src="https://github.com/user-attachments/assets/d72b210f-58dc-44d0-87b0-658ce0ff7c50" />
 
